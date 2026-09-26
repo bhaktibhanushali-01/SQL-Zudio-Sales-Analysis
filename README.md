@@ -199,16 +199,10 @@ SQL--Zudio-Sales-Analysis
 <h2>👨‍💻 Author</h2>
 
 <p>
-<b>Omkar Chafekar</b><br>
-GitHub: 
-<a href="https://github.com/Omkar2304">https://github.com/Omkar2304</a>
+<b>Bhakti Bhanushali</b><br>
 </p>
 
 <hr>
-
-<p align="center">
-⭐ If you found this project useful, consider starring the repository.
-</p>
 
 </body>
 </html>
